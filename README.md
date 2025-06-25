@@ -51,4 +51,4 @@ Used Kaggle’s Dataset :- https://www.kaggle.com/c/dogs-vs-cats/data
 
 📬 Contact
 Feel free to connect with me on LinkedIn or drop a ⭐ if you find this project useful!
-🔗 Author: [JEEVAN BANGERA] 📧 Contact: [jeevanbangera794@gamil.com]
+- 🔗 Author: [JEEVAN BANGERA] 📧 Contact: [jeevanbangera794@gamil.com]
