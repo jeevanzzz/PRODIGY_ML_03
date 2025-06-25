@@ -7,31 +7,31 @@ The backend classification model was trained on labeled image data using the Sup
 This project provided hands-on experience in computer vision, traditional machine learning, and deploying models through a simple and clean web UI.
 
 ## ✅ Features
-**📸 Image Upload**
+**📸 Image Upload:**
 Allows users to upload .jpg, .jpeg, or .png images directly through the Streamlit interface.
 
-**🧠 Machine Learning Model**
+**🧠 Machine Learning Model:**
 Utilizes a Support Vector Machine (SVM) trained on preprocessed image data to classify pets.
 
-**🧼 Image Preprocessing**
-Uploaded images are resized, flattened, and scaled to match the model’s training specifications for accurate predictions.
+**🧼 Image Preprocessing:**
+Uploaded images are resized,flattened,scaled to match the model’s training specifications for accurate predictions.
 
-**⚖️ Model & Scaler Serialization**
+**⚖️ Model & Scaler Serialization:**
 Uses Pickle to load pre-trained SVM model and scaler for quick, on-demand predictions.
 
-**🐾 Real-time Prediction Output**
+**🐾 Real-time Prediction Output:**
 Displays a label ("Cat" or "Dog") based on the model’s prediction instantly after image upload.
 
-**🌐 Web Interface with Streamlit**
+**🌐 Web Interface with Streamlit:**
 Built using Streamlit to create a clean, responsive, and easy-to-use user interface.
 
-**💡 Lightweight & Fast**
+**💡 Lightweight & Fast:**
 Runs locally with minimal system requirements and delivers predictions almost instantly.
 
 
 ## 🚀 Demo
 Upload an image, and the model will predict whether it's a cat or a dog.
-![Screenshot 2025-06-25 204011](https://github.com/user-attachments/assets/acac6795-7d09-4b36-87bb-8e429dcaddec)
+![image](https://github.com/user-attachments/assets/3f099e39-4533-4a70-a4cf-5e6ede4cfc63)
 
 ## 🧠 Tech Stack
 - Python 🐍
